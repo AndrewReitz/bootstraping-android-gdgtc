@@ -19,7 +19,3 @@ class ExampleActivity extends Activity {
   }
 }
 ```
-
-Output:
-`ExampleActivity` // TODO
-
